@@ -12,3 +12,10 @@ This little github repo will serve as a journal for the entire project. You'll f
 - 350$ budget (maybe less :/)
 - Looks **nice** (eink screen!!!!)
 - <del>I don't die in the process</del>
+
+---
+## May 18th
+
+Working on the precise bom to see if everything can fit in budget :D \
+You can access it [here](https://docs.google.com/spreadsheets/d/1ikDKoN0T1L48sfJnj8HsopvuAkS2xJBeX7_AytDlYT8/edit?usp=sharing) \
+Then i decided i should better start with a quick sketch and used onshape to do so. \
