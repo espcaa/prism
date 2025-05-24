@@ -38,3 +38,5 @@ I added linear rails, first one then realized i needed two to get a better stabi
 I also added a belt to move the bed. \
 Started to work on the z axis but nothing really important yet. \
 Bed plate is finished!!
+
+<img width="622" alt="Screenshot 2025-05-24 at 12 59 26" src="https://github.com/user-attachments/assets/1cafcc0f-8616-45d9-bb61-dbea898566d5" />
